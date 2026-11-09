@@ -86,7 +86,7 @@ I then changed the DNS configuration according to the organisation's network req
 > Internal DNS addresses have been redacted from this public project.
 
 <p align="center">
-  <img width="393" height="393" alt="image" src="https://github.com/user-attachments/assets/d124bd11-a464-445a-bc86-5767120d709b" />
+  <img width="615" height="626" alt="image" src="https://github.com/user-attachments/assets/82377d9a-19b1-4f1c-8d01-421995244e83" />
   <img width="391" height="455" alt="image" src="https://github.com/user-attachments/assets/5751ed40-75ea-4451-a2fd-45e55526239c" />
 
 </p>
